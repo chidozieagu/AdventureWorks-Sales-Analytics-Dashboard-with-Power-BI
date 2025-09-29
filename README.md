@@ -1,4 +1,4 @@
-# AdventureWorks-Sales-Analytics-Dashboard 
+# AdventureWorks-Sales-Analytics-Dashboard using Power BI
 ## Project objective
 End-to-end Power BI project using the Adventure Works dataset. Includes data modeling, DAX measures, and interactive dashboards to analyze product performance, customer trends, sales growth, and return patterns using Power BI. 
 
@@ -13,7 +13,7 @@ End-to-end Power BI project using the Adventure Works dataset. Includes data mod
 ## Data model layout
 - <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Data%20modelling.png">Data model</a>
 
-## Dashboard interaction
-- <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Executive%20dashboard.png">Executive dasboard</a>
-- <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Customer%20details.png">Customer details</a>
-- <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Product%20details.png">Product details</a>
+## Power BI reports
+- <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Executive%20dashboard.png">Executive report</a>
+- <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Customer%20details.png">Customer report</a>
+- <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Product%20details.png">Product report</a>
