@@ -14,9 +14,10 @@ End-to-end Power BI project using the Adventure Works dataset. Includes data mod
 - <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Data%20modelling.png">Data model</a>
 
 ## Power BI reports
-- <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Executive%20dashboard.png">Executive report</a>
-- <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Customer%20details.png">Customer report</a>
-- <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Product%20details.png">Product report</a>
+<img width="862" height="483" alt="Executive dashboard" src="https://github.com/user-attachments/assets/5f9b9084-89b8-4c2c-9c44-7f7c74c89c0e" />
+<img width="879" height="486" alt="Customer details" src="https://github.com/user-attachments/assets/5dc299d0-3696-4aec-9ce7-c004ea582fc8" />
+<img width="887" height="489" alt="Product details" src="https://github.com/user-attachments/assets/feaa9c1f-0764-465e-a105-923baeac549f" />
+
 
 ## Features
 
