@@ -10,4 +10,5 @@ End-to-end Power BI project using the Adventure Works dataset. Includes data mod
 - Regional Trends – Which regions drive the most sales, and where are growth opportunities?
 - Profitability – What is the margin contribution by product category?
 
-- Dashboard Interaction
+## Data model layout
+- <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Data%20modelling.png">Data model</a>
