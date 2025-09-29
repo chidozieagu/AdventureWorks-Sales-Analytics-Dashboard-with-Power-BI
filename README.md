@@ -17,3 +17,11 @@ End-to-end Power BI project using the Adventure Works dataset. Includes data mod
 - <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Executive%20dashboard.png">Executive report</a>
 - <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Customer%20details.png">Customer report</a>
 - <a href="https://github.com/chidozieagu/DATA-VISUALIZATION-WITH-POWER-BI/blob/2767f4c98db1f77e4e6c384b9a6d8c5e093ace86/Product%20details.png">Product report</a>
+
+## Features
+
+- Data modeling with relationships between product, customer, sales, and returns tables.
+- Custom DAX measures for KPIs (Revenue, Profit, Return Rate).
+- Interactive visuals for filtering by region, product category, and customer segment.
+- Dynamic drill-downs for sales trends and product performance.
+- Return analysis to identify high-risk products/customers.
